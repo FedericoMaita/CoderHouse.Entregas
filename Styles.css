@@ -1,6 +1,6 @@
 *{
     margin: 0;
-    padding: 0;    
+    padding: 0;  
 }
 
 a{
@@ -12,11 +12,16 @@ a{
 
 #navbarColor{
     background-color: rgb(191, 227, 249);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Merriweather;  
 }
 
 /* Fin estilos de NAV */
 /* Inicio estilos de MAIN */
+
+/* Uso de googleFonts */
+h1{
+  font-family: alkatra, sans-serif;
+}
 
 .contenedorGeneralIndex{
     padding: 5%;
